@@ -1,16 +1,15 @@
 site_name: Fluminense Web Docs
 
 nav:
-  - Home: 'index.md' 
-  - Projetos: '!include ./Flubot/mkdocs.yml'
+  - Home: "index.md"
+  - Projetos:
+    - Flubot: "!include ./Flubot/mkdocs.yml"
+    - Fisio:  "!include ./Fisio/mkdocs.yml"
 
 plugins:
   - monorepo
 
 theme:
   name: material
-  palette: 
+  palette:
     primary: green
-
-
-
