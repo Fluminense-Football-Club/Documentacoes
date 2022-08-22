@@ -1,0 +1,4 @@
+[submodule "Flubot"]
+	path = Flubot
+	url = https://github.com/Fluminense-Football-Club/Flubot.git
+	branch = doc

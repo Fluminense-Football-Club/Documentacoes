@@ -1,0 +1,16 @@
+site_name: Fluminense Web Docs
+
+nav:
+  - Home: 'index.md' 
+  - Projetos: '!include ./Flubot/mkdocs.yml'
+
+plugins:
+  - monorepo
+
+theme:
+  name: material
+  palette: 
+    primary: green
+
+
+
