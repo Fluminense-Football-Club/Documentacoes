@@ -5,4 +5,4 @@
 [submodule "Fisio"]
 	path = Fisio
 	url = https://github.com/Fluminense-Football-Club/Fisio.git
-	branch = Doc
+	branch = doc
